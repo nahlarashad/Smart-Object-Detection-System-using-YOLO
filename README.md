@@ -27,10 +27,10 @@ The system demonstrates a complete computer vision pipeline, including inference
 ## Example Results
 
 ### Image Detection
-![Image Result](results/image_result.png)
+![Image Result](image_result.png)
 
 ### Video Detection
-![Video Result](results/video_result.png)
+![Video Result](video_result.png)
 
 ---
 
